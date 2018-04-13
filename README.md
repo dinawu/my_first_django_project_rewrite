@@ -1,2 +1,0 @@
-# my_first_django_project_rewrite
-# my_first_django_project_rewrite
